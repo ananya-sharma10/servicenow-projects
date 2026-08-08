@@ -8,7 +8,23 @@ The system uses a centralized onboarding request to automatically coordinate the
 
 ## Reference Screenshots
 
-The following screenshots are representative ServiceNow interfaces related to the workflow concepts implemented in this project.
+The following screenshots are representative ServiceNow interfaces related to the workflow concepts demonstrated in this project.
+
+### 1. Onboarding Catalog Item
+
+![Onboarding Catalog Item](screenshots/01-onboarding-catalog.jpg)
+
+### 2. Onboarding Workflow
+
+![Onboarding Workflow](screenshots/02-onboarding-catalog.jpg)
+
+### 3. Requested Item (RITM)
+
+![Requested Item](screenshots/03-onboarding-catalog.jpg)
+
+### 4. Generated Tasks
+
+![Generated Tasks](screenshots/04-onboarding-catalog.jpg)
 
 
 ## Workflow
