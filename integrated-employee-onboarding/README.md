@@ -6,11 +6,10 @@ The Integrated Employee Onboarding System is a ServiceNow workflow automation pr
 
 The system uses a centralized onboarding request to automatically coordinate the tasks and approvals required before an employee joins the organization.
 
-## Project Screenshots
+## Reference Screenshots
 
-![Integrated Employee Onboarding System](screenshots/integrated-employee-onboarding-mockups.png)
+The following screenshots are representative ServiceNow interfaces related to the workflow concepts implemented in this project.
 
-> **Note:** These are conceptual portfolio mockups created to visually demonstrate the project's workflow and functionality.
 
 ## Workflow
 
