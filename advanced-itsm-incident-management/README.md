@@ -11,25 +11,23 @@ The system provides a centralized process for logging, categorizing, prioritizin
 The following reference visuals demonstrate key ServiceNow interfaces and workflow concepts associated with the project.
 
 
-### 1. Incident Resolution Dashboard
+### 1. Incident Record
 
-![Incident Resolution Dashboard](screenshots/01-incident-resolution-dashboard.jpg)
+![Incident Record](screenshots/01-incident-record.jpg)
 
-### 2. Incident Analysis Dashboard
+### 2. Incident Resolution Dashboard
 
-![Incident Analysis Dashboard](screenshots/02-incident-analysis-dashboard.jpg)
+![Incident Resolution Dashboard](screenshots/02-incident-resolution-dashboard.jpg)
 
-### 3. Incident Record
+### 3. Incident Flow Designer
 
-![Incident Record](screenshots/03-incident-record.jpg)
+![Incident Flow Designer](screenshots/03-flow-designer.jpg)
 
-### 4. Incident Flow Designer
+### 4. Incident Analysis Dashboard
 
-![Incident Flow Designer](screenshots/04-incident-flow-designer.jpg)
+![Incident Analysis Dashboard](screenshots/04-incident-analysis-dashboard.jpg)
 
-### 5. Incident Management Form
 
-![Incident Management Form](screenshots/05-incident-management-form.jpg)
 
 ## Workflow
 
